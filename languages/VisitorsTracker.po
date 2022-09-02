@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: vstr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.1\n"
+
+msgid "Step saved"
+msgstr ""
+
+msgid "Settings saved"
+msgstr ""
+
+msgid "Enter the IP adresses, separated by commas"
+msgstr ""
+
+msgid "Don't record visits from these IP"
+msgstr ""
+
+msgid "Remove useless visits from list"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Remove 00:00 duration visits"
+msgstr ""
+
+msgid "Defines the information panel position"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Information panel position"
+msgstr ""
+
+msgid "Visits will be deleted after this period"
+msgstr ""
+
+msgid "Forever"
+msgstr ""
+
+msgid "3 months"
+msgstr ""
+
+msgid "2 months"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "7 days"
+msgstr ""
+
+msgid "3 days"
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "Retain visitor data for"
+msgstr ""
+
+msgid "Defines the targeted customers"
+msgstr ""
+
+msgid "Targeted customers"
+msgstr ""
+
+msgid "How to find my purchase code ?"
+msgstr ""
+
+msgid "Purchase License Code"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr ""
+
+msgid "Bulk Actions"
+msgstr ""
+
+msgid "Filter by Role"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Filter by IP"
+msgstr ""
+
+msgid "Filter by User"
+msgstr ""
+
+msgid "Last Visits"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Visitors Tracker"
+msgstr ""
+
+msgid "View the visit"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Browser"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "Time past"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Registered"
+msgstr ""
+
+msgid "Don't record visits from administrators"
+msgstr ""
+
+msgid "The users having the admin role will not be tracked"
+msgstr ""
+
+msgid "Don't record visits from tactile devices"
+msgstr ""
+
+msgid "Users using mobiles and tablets will not be tracked"
+msgstr ""
